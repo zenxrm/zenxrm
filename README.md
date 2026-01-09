@@ -30,7 +30,7 @@ Main focus is on **learning by building**, improving model performance, and unde
   <a href="https://x.com/the_quietcodex">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/raghav-marwaha](https://www.linkedin.com/in/raghavmarwaha-rm-cse/)">
+  <a href="https://www.linkedin.com/in/raghavmarwaha-rm-cse/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/raghav_rm">
