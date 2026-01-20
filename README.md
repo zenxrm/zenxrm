@@ -81,14 +81,10 @@ Main focus is on **learning by building**, improving model performance, and unde
 
 
 
-<img align="right" src="https://media.giphy.com/media/zWsIDflqDV784nXpN8/giphy.gif" width="260"/>
 
 
 **🎨HOBBY:** I’m good at **traditional arts** and enjoy sketching in my free time.
 
 
----
-
-<img align="Center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ4c3hweHR6M3B1ZGVuZ253dmZlbGt2dGI4cHFlajhyd3l6eWIydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FWAcpJsFT9mvrv0e7a/giphy.gif" width="260"/>
 
 
