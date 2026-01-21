@@ -3,6 +3,21 @@
 Computer Science Undergraduate | AI & ML | Data Structures | Building Intelligent Systems
 </h3>
 
+
+
+![Dark Coding 🌙💻](https://github.com/user-attachments/assets/8f2ac416-01dc-43a8-90e4-1332155b6b01)
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&duration=2000&pause=999&color=13F7C3&background=2EFF6600&center=true&vCenter=true&width=440&lines=AI+%26+Machine+Learning+;Grinding+every+day+.+.+.+.;Deep+Learning+.+.+.+."
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG4za285bHhscTB6bGl1aWxxODh0MTcwaHFqbHgxeHhiNGl0aW51YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1SPjROlU208FsmFRJ/giphy.gif" width="350"/>
 </p>
