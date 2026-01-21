@@ -4,8 +4,13 @@ Computer Science Undergraduate | AI & ML | Data Structures | Building Intelligen
 </h3>
 
 
-
-![Dark Coding 🌙💻](https://github.com/user-attachments/assets/8f2ac416-01dc-43a8-90e4-1332155b6b01)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/8f2ac416-01dc-43a8-90e4-1332155b6b01"
+    alt="Dark Coding 🌙💻"
+    width="400"
+  />
+</p>
 
 
 <p align="center">
