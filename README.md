@@ -40,7 +40,7 @@ Main focus is on **learning by building**, improving model performance, and unde
 - 🧭 Looking for guidance in **building industry-ready AI/ML systems**
 
 - 📘 **My CNN Blog**  
-  👉 https://cnnrm.blogspot.com/2025/11/cnn-convolutional-neural-network.html
+   https://cnnrm.blogspot.com/2025/11/cnn-convolutional-neural-network.html
 
 ## 📫 Connect With Me
 <p align="center">
@@ -58,7 +58,7 @@ Main focus is on **learning by building**, improving model performance, and unde
   </a>
 </p>
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -103,7 +103,7 @@ Main focus is on **learning by building**, improving model performance, and unde
 
 
 
-**🎨HOBBY:** I’m good at **traditional arts** and enjoy sketching in my free time.
+**🎨 MY_HOBBY :** I’m good at **traditional arts** and enjoy sketching in my free time.
 
 
 
